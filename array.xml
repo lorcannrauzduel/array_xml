@@ -1,0 +1,2283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Formations>
+  <Formation id="9409">
+    <Nom>ClickHouse</Nom>
+    <Categorie>BigData</Categorie>
+    <Url>https://www.ambient-it.net/formation/clickhouse</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/Clickhouse.png</Image>
+    <Duree>3</Duree>
+    <Prix>1710</Prix>
+    <Session>
+      <Nom>ClickHouse Janvier</Nom>
+      <Description>Session Interentreprises : Formation ClickHouse du 21 au 23 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-21</StartDate>
+      <EndDate>2019-01-23</EndDate>
+    </Session>
+    <Session>
+      <Nom>ClickHouse Février</Nom>
+      <Description>Session Interentreprises : Formation ClickHouse du 25 au 27 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-25</StartDate>
+      <EndDate>2019-02-27</EndDate>
+    </Session>
+    <Session>
+      <Nom>ClickHouse Mars</Nom>
+      <Description>Session Interentreprises : Formation ClickHouse du 04 au 06 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-04</StartDate>
+      <EndDate>2019-03-06</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="387" LinkId="387" Frequency="4">
+    <Nom>Angular</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-angular</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/angular-logo.png</Image>
+    <Duree>3</Duree>
+    <Prix>1710</Prix>
+    <Session>
+      <Nom>Angular Janvier</Nom>
+      <Description>Session Interentreprises : Formation Angular 7 du 21 au 23 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-21</StartDate>
+      <EndDate>2019-01-23</EndDate>
+    </Session>
+    <Session maintenue="1">
+      <Nom>Angular Février</Nom>
+      <Description>Session Interentreprises : Formation Angular 7 du 11 au 13 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-13</EndDate>
+    </Session>
+    <Session>
+      <Nom>Angular Mars</Nom>
+      <Description>Session Interentreprises : Formation Angular 7 du 04 au 06 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-04</StartDate>
+      <EndDate>2019-03-06</EndDate>
+    </Session>
+    <Session lieu="Lyon">
+      <Nom>Angular Lyon</Nom>
+      <Description>Session Interentreprises : Formation Angular 7 du 11 au 13 Février 2019 sur Lyon</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-13</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="7364" LinkId="387">
+    <Nom>Angular Avancé</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-angular-avance</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/06/angular-avancee.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>Angular Avancé Janvier</Nom>
+      <Description>Session Interentreprises : Formation Angular Avancé du 24 au 25 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-24</StartDate>
+      <EndDate>2019-01-25</EndDate>
+    </Session>
+    <Session maintenue="1">
+      <Nom>Angular Avancé Février</Nom>
+      <Description>Session Interentreprises : Formation Angular Avancé du 14 au 15 février 2019 sur Paris</Description>
+      <StartDate>2019-02-14</StartDate>
+      <EndDate>2019-02-15</EndDate>
+    </Session>
+    <Session lieu="Lyon">
+      <Nom>Angular Avancé Lyon</Nom>
+      <Description>Session Interentreprises : Formation Angular Avancé du 14 au 15 Février 2019 sur Lyon</Description>
+      <StartDate>2019-02-14</StartDate>
+      <EndDate>2019-02-15</EndDate>
+    </Session>
+    <Session>
+      <Nom>Angular Mars</Nom>
+      <Description>Session Interentreprises : Formation Angular 6 du 07 au 08 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-07</StartDate>
+      <EndDate>2019-03-08</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="650" LinkId="387">
+    <Nom>Ionic</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-ionic</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/07/Ionic-logo200.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>Ionic Janvier</Nom>
+      <Description>Session Interentreprises : Formation Ionic du 24 au 25 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-24</StartDate>
+      <EndDate>2019-01-25</EndDate>
+    </Session>
+    <Session>
+      <Nom>Ionic Janvier</Nom>
+      <Description>Session Interentreprises : Formation Ionic du 28 février au 1er mars 2019 sur Paris</Description>
+      <StartDate>2019-02-28</StartDate>
+      <EndDate>2019-03-01</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8684" LinkId="387">
+    <Nom>Firebase</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-firebase</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/09/firebase-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+  </Formation>
+  <Formation id="790" LinkId="790" Frequency="4">
+    <Nom>React</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-react</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/11/react-200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>React Février</Nom>
+      <Description>Session Interentreprises : Formation React du 11 au 13 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-13</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="2030" LinkId="790">
+    <Nom>React Native</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-react-native</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/11/react-200.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>React Native Février</Nom>
+      <Description>Session Interentreprises : Formation React Native du 14 au 15 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-14</StartDate>
+      <EndDate>2019-02-15</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="502" Frequency="4">
+    <Nom>The Elastic Stack</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-elastic-stack</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/elkstack-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Elastic Stack Décembre</Nom>
+      <Description>Session Interentreprises : Formation Elastic Stack du 19 au 21 Décembre 2018 sur Paris</Description>
+      <StartDate>2018-12-19</StartDate>
+      <EndDate>2018-12-21</EndDate>
+    </Session>
+    <Session>
+      <Nom>Elastic Stack Janvier</Nom>
+      <Description>Session Interentreprises : Formation Elastic Stack du 28 au 30 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-28</StartDate>
+      <EndDate>2019-01-30</EndDate>
+    </Session>
+    <Session>
+      <Nom>Elastic Stack Mars</Nom>
+      <Description>Session Interentreprises : Formation Elastic Stack du 18 au 20 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-18</StartDate>
+      <EndDate>2019-03-20</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="1615" Frequency="4">
+    <Nom>Spark et Machine learning</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-spark-machine-learning</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/08/spark2-ml-200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session maintenue="1">
+      <Nom>Spark2 ML Février</Nom>
+      <Description>Session Interentreprises : Formation Spark2 et Machine Learning du 11 au 13 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-13</EndDate>
+    </Session>
+    <Session>
+      <Nom>Spark2 ML Mars</Nom>
+      <Description>Session Interentreprises : Formation Spark2 et Machine Learning du 11 au 13 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-11</StartDate>
+      <EndDate>2019-03-13</EndDate>
+    </Session>
+    <Session>
+      <Nom>Spark2 ML Juin</Nom>
+      <Description>Session Interentreprises : Formation Spark2 et Machine Learning du 10 au 12 Juin 2019 sur Paris</Description>
+      <StartDate>2019-06-10</StartDate>
+      <EndDate>2019-06-12</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="2530" Frequency="8">
+    <Nom>Kafka</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-kafka</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2017/02/kafka-logo200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1890</Prix>
+    <Session>
+      <Nom>Kafka Mars</Nom>
+      <Description>Session Interentreprises : Formation Apache Kafka Messagerie Distribuée du 4 au 6 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-04</StartDate>
+      <EndDate>2019-03-06</EndDate>
+    </Session>
+    <Session>
+      <Nom>Kafka Avril</Nom>
+      <Description>Session Interentreprises : Formation Apache Kafka Messagerie Distribuée du 15 au 17 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-15</StartDate>
+      <EndDate>2019-04-17</EndDate>
+    </Session>
+    <Session>
+      <Nom>Kafka Juin</Nom>
+      <Description>Session Interentreprises : Formation Apache Kafka Messagerie Distribuée du 24 au 26 Juin 2019 sur Paris</Description>
+      <StartDate>2019-06-24</StartDate>
+      <EndDate>2019-04-26</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="486" Frequency="8">
+    <Nom>Xamarin</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-xamarin</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2017/05/Xamarin-logo175.png</Image>
+    <Duree>5</Duree>
+    <Prix>2430</Prix>
+    <Session>
+      <Nom>Xamarin Février</Nom>
+      <Description>Session Interentreprises : Formation Xamarin du 4 au 8 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-04</StartDate>
+      <EndDate>2019-02-08</EndDate>
+    </Session>
+    <Session>
+      <Nom>Xamarin Mars</Nom>
+      <Description>Session Interentreprises : Formation Xamarin du 25 au 30 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-25</StartDate>
+      <EndDate>2019-03-29</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="3270" Frequency="13">
+    <Nom>TinkerPop</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-tinkerpop</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2017/08/tinkerpop-logo_175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1710</Prix>
+    <Session>
+      <Nom>TinkerPop Janvier</Nom>
+      <Description>Session Interentreprises : Formation Apache Tinkerpop du 21 au 23 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-21</StartDate>
+      <EndDate>2019-01-23</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="142" LinkId="142" Frequency="4">
+    <Nom>Docker</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-docker</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/docker_logo.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Docker Février</Nom>
+      <Description>Session Interentreprises : Formation Docker Ansible du 4 au 6 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-04</StartDate>
+      <EndDate>2019-02-06</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="3082" LinkId="142">
+    <Nom>Kubernetes</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-kubernetes</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2017/07/kubernetes-logo.png</Image>
+    <Duree>3</Duree>
+    <Prix>1890</Prix>
+    <Session>
+      <Nom>Kubernetes Février</Nom>
+      <Description>Session Interentreprises : Formation Kubernetes du 4 au 6 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-04</StartDate>
+      <EndDate>2019-02-06</EndDate>
+    </Session>
+    <Session maintenue="1">
+      <Nom>Kubernetes Mars</Nom>
+      <Description>Session Interentreprises : Formation Kubernetes du 4 au 6 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-04</StartDate>
+      <EndDate>2019-03-06</EndDate>
+    </Session>
+    <Session>
+      <Nom>Kubernetes Juin</Nom>
+      <Description>Session Interentreprises : Formation Kubernetes du 3 au 5 Juin 2019 sur Paris</Description>
+      <StartDate>2019-06-03</StartDate>
+      <EndDate>2019-06-05</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9284">
+    <Nom>Kubernetes GCP</Nom>
+    <Categorie>DevOps</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-kubernetes-gcp/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/11/kubernetes-gcp.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>Kubernetes GCP Février</Nom>
+      <Description>Session Interentreprises : Formation Kubernetes GCP du 7 au 8 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-07</StartDate>
+      <EndDate>2019-02-08</EndDate>
+    </Session>
+   <Session>
+      <Nom>Kubernetes GCP Mars</Nom>
+      <Description>Session Interentreprises : Formation Kubernetes GCP du 7 au 8 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-07</StartDate>
+      <EndDate>2019-03-08</EndDate>
+    </Session>
+   <Session>
+      <Nom>Kubernetes GCP Juin</Nom>
+      <Description>Session Interentreprises : Formation Kubernetes GCP du 6 au 7 Juin 2019 sur Paris</Description>
+      <StartDate>2019-06-06</StartDate>
+      <EndDate>2019-06-07</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="1632" Frequency="8">
+    <Nom>.NET Core MVC</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-asp-net-core-mvc-core</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/mvc200.png</Image>
+    <Duree>4</Duree>
+    <Prix>1980</Prix>
+    <Session>
+      <Nom>.NET Core Février</Nom>
+      <Description>Session Interentreprises : Formation .NET Core MVC 2.0 du 18 au 21 Février 2018 sur Paris</Description>
+      <StartDate>2019-02-18</StartDate>
+      <EndDate>2019-02-21</EndDate>
+    </Session>
+    <Session>
+      <Nom>.NET Core Mars</Nom>
+      <Description>Session Interentreprises : Formation .NET Core MVC 2.0 du 11 au 14 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-11</StartDate>
+      <EndDate>2019-03-14</EndDate>
+    </Session>
+    <Session>
+      <Nom>.NET Core Avril</Nom>
+      <Description>Session Interentreprises : Formation .NET Core MVC 2.0 du 22 au 25 Avril 2018 sur Paris</Description>
+      <StartDate>2019-04-22</StartDate>
+      <EndDate>2019-04-25</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="3252" Frequency="4">
+    <Nom>TensorFlow</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-tensorflow</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2017/08/TensorFlow_Logo.png</Image>
+    <Duree>4</Duree>
+    <Prix>2430</Prix>
+    <Session>
+      <Nom>TensorFlow Janvier</Nom>
+      <Description>Session Interentreprises : Formation TensorFlow et Deep Learning du 28 au 31 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-28</StartDate>
+      <EndDate>2019-01-31</EndDate>
+    </Session>
+    <Session maintenue="1">
+      <Nom>TensorFlow Février</Nom>
+      <Description>Session Interentreprises : Formation TensorFlow et Deep Learning du 25 au 28 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-25</StartDate>
+      <EndDate>2019-02-28</EndDate>
+    </Session>
+    <Session>
+      <Nom>TensorFlow Mars</Nom>
+      <Description>Session Interentreprises : Formation TensorFlow et Deep Learning du 25 au 28 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-25</StartDate>
+      <EndDate>2019-03-28</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="3232" Frequency="8">
+    <Nom>Kotlin</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-kotlin</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/12/kotlin-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Kotlin Janvier</Nom>
+      <Description>Session Interentreprises : Formation Kotlin du 21 au 23 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-21</StartDate>
+      <EndDate>2019-01-23</EndDate>
+    </Session>
+    <Session>
+      <Nom>Kotlin Mars</Nom>
+      <Description>Session Interentreprises : Formation Kotlin du 11 au 13 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-11</StartDate>
+      <EndDate>2019-03-13</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="3289" Frequency="13">
+    <Nom>Rust</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-rust</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/12/rust-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Rust Février</Nom>
+      <Description>Session Interentreprises : Formation Rust du 11 au 13 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-13</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="1118" Frequency="8">
+    <Nom>Cassandra</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-cassandra</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/05/Cassandra_logo175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1710</Prix>
+    <Session>
+      <Nom>Cassandra Janvier</Nom>
+      <Description>Session Interentreprises : Formation Cassandra du 7 au 9 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-07</StartDate>
+      <EndDate>2019-01-09</EndDate>
+    </Session>
+    <Session>
+      <Nom>Cassandra Avril</Nom>
+      <Description>Session Interentreprises : Formation Cassandra du 15 au 17 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-15</StartDate>
+      <EndDate>2019-04-17</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="2624" Frequency="8">
+    <Nom>Vue.JS</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-vuejs</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/12/vuejs-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1710</Prix>
+    <Session>
+      <Nom>Vue.JS Janvier</Nom>
+      <Description>Session Interentreprises : Formation Vue.js du 21 au 23 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-21</StartDate>
+      <EndDate>2019-01-23</EndDate>
+    </Session>
+    <Session>
+      <Nom>Vue.JS Février</Nom>
+      <Description>Session Interentreprises : Formation Vue.js du 25 au 27 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-25</StartDate>
+      <EndDate>2019-02-27</EndDate>
+    </Session>
+    <Session>
+      <Nom>Vue.JS Mars</Nom>
+      <Description>Session Interentreprises : Formation Vue.js du 25 au 27 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-25</StartDate>
+      <EndDate>2019-03-27</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="1818" Frequency="8">
+    <Nom>Chatbots avec Recast.Ai</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-chatbot-recastai</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/09/recastai-logo-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+  </Formation>
+  <Formation id="4075" Frequency="4">
+    <Nom>Spark et Tuning Avancé</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-spark-tuning-avancee</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2017/12/spark2-t-175.png</Image>
+    <Duree>4</Duree>
+    <Prix>1980</Prix>
+    <Session>
+      <Nom>Spark2 T Janvier</Nom>
+      <Description>Session Interentreprises : Formation Spark2 et Tuning du 7 au 10 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-07</StartDate>
+      <EndDate>2019-01-10</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="802" Frequency="13">
+    <Nom>Spring Cloud</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-spring-cloud</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/spcloud200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1620</Prix>
+    <Session>
+      <Nom>Spring Cloud Février</Nom>
+      <Description>Session Interentreprises : Formation Spring Cloud du 20 au 22 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-13</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="2051" Frequency="13">
+    <Nom>Play</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-play</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/12/play-logo-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+  </Formation>
+  <Formation id="465" Frequency="13">
+    <Nom>Java</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-java</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/java_logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Java Février</Nom>
+      <Description>Session Interentreprises : Formation Java du 4 au 6 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-04</StartDate>
+      <EndDate>2019-02-06</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="4238" Frequency="13">
+    <Nom>GraphQL</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-graphql</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/01/GraphQL_Logo_175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>GraphQL Janvier</Nom>
+      <Description>Session Interentreprises : Formation GraphQL le 10 et 11 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-10</StartDate>
+      <EndDate>2019-01-11</EndDate>
+    </Session>
+    <Session>
+      <Nom>GraphQL Mars</Nom>
+      <Description>Session Interentreprises : Formation GraphQL le 14 et 15 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-14</StartDate>
+      <EndDate>2019-03-15</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="2932" Frequency="8">
+    <Nom>Polymer</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-polymer</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/12/polymer-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Polymer Janvier</Nom>
+      <Description>Session Interentreprises : Formation Polymer du 21 au 23 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-21</StartDate>
+      <EndDate>2019-01-23</EndDate>
+    </Session>
+    <Session>
+      <Nom>Polymer Mars</Nom>
+      <Description>Session Interentreprises : Formation Polymer du 18 au 20 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-18</StartDate>
+      <EndDate>2019-03-20</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="2490" Frequency="13">
+    <Nom>Qt</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-qt</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/12/qt-logo-175.png</Image>
+    <Duree>4</Duree>
+    <Prix>1980</Prix>
+    <Session>
+      <Nom>Qt Février</Nom>
+      <Description>Session Interentreprises : Formation Qt du 4 au 7 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-04</StartDate>
+      <EndDate>2019-02-07</EndDate>
+    </Session>
+    <Session>
+      <Nom>Qt Avril</Nom>
+      <Description>Session Interentreprises : Formation Qt du 15 au 18 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-15</StartDate>
+      <EndDate>2019-04-18</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="3175" Frequency="13">
+    <Nom>Dynamics 365 CRM</Nom>
+    <Categorie>CRM et Webmarketing</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-dynamics-365</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2017/07/dynamics-logo200.png</Image>
+    <Duree>4</Duree>
+    <Prix>2070</Prix>
+    <Session>
+      <Nom>Dynamics CRM Janvier</Nom>
+      <Description>Session Interentreprises : Formation Dynamics CRM du 14 au 17 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-14</StartDate>
+      <EndDate>2019-01-17</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="3361" Frequency="13">
+    <Nom>React XP</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-reactxp</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/11/react-200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>ReactXP Janvier</Nom>
+      <Description>Session Interentreprises : Formation ReactXP du 7 au 9 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-07</StartDate>
+      <EndDate>2019-01-09</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="2546" Frequency="13">
+    <Nom>JHipster</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-jhipster</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/12/jhipster-logo-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>JHipsterJanvier</Nom>
+      <Description>Session Interentreprises : Formation JHipster le 10 et 11 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-10</StartDate>
+      <EndDate>2019-01-11</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="1129" Frequency="13">
+    <Nom>Chef</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-devops-chef</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/05/chef_logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Chef Janvier</Nom>
+      <Description>Session Interentreprises : Formation Chef du 15 au 16 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-14</StartDate>
+      <EndDate>2019-01-16</EndDate>
+    </Session>
+    <Session>
+      <Nom>Chef Mars</Nom>
+      <Description>Session Interentreprises : Formation Chef du 25 au 27 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-25</StartDate>
+      <EndDate>2019-03-27</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="4560" Frequency="8">
+    <Nom>Solidity</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-solidity</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/01/solidity-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>Solidity Mars</Nom>
+      <Description>Session Interentreprises : Formation Solidity le 7 et 8 Mars 2018 sur Paris</Description>
+      <StartDate>2019-03-07</StartDate>
+      <EndDate>2019-03-08</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="4542" Frequency="13">
+    <Nom>Slurm</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-slurm</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/01/Slurm-logo175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>Slurm Janvier</Nom>
+      <Description>Session Interentreprises : Formation Slurm le 10 et 11 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-10</StartDate>
+      <EndDate>2019-01-11</EndDate>
+    </Session>
+    <Session>
+      <Nom>Slurm Mars</Nom>
+      <Description>Session Interentreprises : Formation Slurm le 7 et 8 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-07</StartDate>
+      <EndDate>2019-03-08</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="4529" Frequency="13">
+    <Nom>Redis</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-redis</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/01/redis-logo_175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>Redis Mars</Nom>
+      <Description>Session Interentreprises : Formation Redis le 14 et 15 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-14</StartDate>
+      <EndDate>2019-03-15</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="4802" Frequency="13">
+    <Nom>RedHat RHCSA</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-rhcsa</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/02/RedHat_Logo-200.png</Image>
+    <Duree>4</Duree>
+    <Prix>1980</Prix>
+    <Session>
+      <Nom>RHCSA Février</Nom>
+      <Description>Session Interentreprises : Formation Préparation RHCSA du 4 au 7 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-04</StartDate>
+      <EndDate>2019-02-07</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="5502" Frequency="13">
+    <Nom>Revit</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-bim</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/03/Revit-logo175.png</Image>
+    <Duree>5</Duree>
+    <Prix>2250</Prix>
+    <Session>
+      <Nom>Revit Janvier</Nom>
+      <Description>Session Interentreprises : Formation Préparation Revit du 7 au 11 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-07</StartDate>
+      <EndDate>2019-01-11</EndDate>
+    </Session>
+    <Session>
+      <Nom>Revit Février</Nom>
+      <Description>Session Interentreprises : Formation Préparation Revit du 11 au 15 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-15</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="654" Frequency="8">
+    <Nom>Scala</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-scala</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/scala-logol.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Scala Janvier</Nom>
+      <Description>Session Interentreprises : Formation Préparation Scala du 14 au 16 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-14</StartDate>
+      <EndDate>2019-01-16</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="6505" Frequency="8">
+    <Nom>Laravel</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-laravel</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/04/laravel-logo-175.png</Image>
+    <Duree>4</Duree>
+    <Prix>1980</Prix>
+    <Session>
+      <Nom>Laravel Janvier</Nom>
+      <Description>Session Interentreprises : Formation Préparation Laravel du 14 au 17 Janvier 2018 sur Paris</Description>
+      <StartDate>2019-01-14</StartDate>
+      <EndDate>2019-01-17</EndDate>
+    </Session>
+    <Session>
+      <Nom>Laravel Février</Nom>
+      <Description>Session Interentreprises : Formation Préparation Laravel du 25 au 28 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-25</StartDate>
+      <EndDate>2019-02-28</EndDate>
+    </Session>
+    <Session>
+      <Nom>Laravel Avril</Nom>
+      <Description>Session Interentreprises : Formation Préparation Laravel du 22 au 25 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-22</StartDate>
+      <EndDate>2019-04-25</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="2724" Frequency="13">
+    <Nom>Android Studio</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-android-studio</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/12/android_studio-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Android Studio Janvier</Nom>
+      <Description>Session Interentreprises : Formation Préparation Android Studio du 21 au 23 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-21</StartDate>
+      <EndDate>2019-01-23</EndDate>
+    </Session>
+    <Session>
+      <Nom>Android Studio Mars</Nom>
+      <Description>Session Interentreprises : Formation Préparation Android Studio du 4 au 6 Mars 2018 sur Paris</Description>
+      <StartDate>2019-03-04</StartDate>
+      <EndDate>2019-03-06</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="656" Frequency="13">
+    <Nom>Spring Core</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-spring-core/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/springcore-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="3608" Frequency="13">
+    <Nom>Sécurité OWASP</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-securite-owasp</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/12/owasp-logo-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+  </Formation>
+  <Formation id="2457" Frequency="13">
+    <Nom>Titanium Appcelerator</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-titanium-appcelerator</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/12/titanium-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="2172" Frequency="13">
+    <Nom>Codeigniter</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-codeigniter</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/12/codeigniter-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="2166" Frequency="8">
+    <Nom>Git Avancé</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-git-avance</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/git-logo-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+  </Formation>
+  <Formation id="2041" Frequency="13">
+    <Nom>Akka</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-akka</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/12/akka-logo-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>Akka Février</Nom>
+      <Description>session Interentreprises : Formation Akka du 21 au 22 Février</Description>
+      <StartDate>2019-02-20</StartDate>
+      <EndDate>2019-02-21</EndDate>
+    </Session>
+    <Session>
+      <Nom>Akka Avril</Nom>
+      <Description>session Interentreprises : Formation Akka du 11 au 12 Avril</Description>
+      <StartDate>2019-04-11</StartDate>
+      <EndDate>2019-04-12</EndDate>
+    </Session>
+    <Session>
+      <Nom>Akka Juin</Nom>
+      <Description>session Interentreprises : Formation Akka du 6 au 7 Juin</Description>
+      <StartDate>2019-06-06</StartDate>
+      <EndDate>2019-06-07</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="1956" Frequency="13">
+    <Nom>Redux et RxJS</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-redux</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/10/redux-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Redux et RxJS Février</Nom>
+      <Description>Session Interentreprises : Formation Redux et RxJS du 25 au 27 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-25</StartDate>
+      <EndDate>2019-02-27</EndDate>
+    </Session>
+    <Session>
+      <Nom>Redux et RxJS Mai</Nom>
+      <Description>Session Interentreprises : Formation Redux et RxJS du 13 au 15 Mai 2019 sur Paris</Description>
+      <StartDate>2019-05-13</StartDate>
+      <EndDate>2019-05-15</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="1422" Frequency="13">
+    <Nom>Python</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-python</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/12/python-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="1161" Frequency="13">
+    <Nom>Programmation avancée Multithread C et C++</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-multithread-c-cplusplus</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/12/c_c-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="800" Frequency="13">
+    <Nom>Microsoft Azure Cloud</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-azure</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/azure-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="797" Frequency="13">
+    <Nom>Google Web Toolkit - GWT</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-google-web-toolkit</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/gwt-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1170</Prix>
+  </Formation>
+  <Formation id="795" Frequency="13">
+    <Nom>Bootstrap</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-bootstrap</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/bootstrap-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Bootstrap Février</Nom>
+      <Description>Session Interentreprises : Formation Bootstrap du 11 au 13 Février 2018 sur Paris</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-13</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="792" Frequency="13">
+    <Nom>HTML CSS et Javascript</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-html-css-js</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/hjc200.png</Image>
+    <Duree>4</Duree>
+    <Prix>1980</Prix>
+  </Formation>
+  <Formation id="772" Frequency="8">
+    <Nom>Node.JS</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-node-js</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/nodejs-logo-175.png</Image>
+    <Duree>4</Duree>
+    <Prix>2430</Prix>
+    <Session>
+      <Nom>Node.JS Janvier</Nom>
+      <Description>Session Interentreprises : Formation Node.JS du 28 au 31 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-28</StartDate>
+      <EndDate>2019-01-31</EndDate>
+    </Session>
+    <Session>
+      <Nom>Node.JS Mars</Nom>
+      <Description>Session Interentreprises : Formation Node.JS du 18 au 21 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-18</StartDate>
+      <EndDate>2019-03-21</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="658" Frequency="13">
+    <Nom>Windows Presentation Foundation - WPF</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-wpf</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/wpf-logo-175.png</Image>
+    <Duree>4</Duree>
+    <Prix>1980</Prix>
+    <Session>
+      <Nom>WPF Février</Nom>
+      <Description>Session Interentreprises : Formation WPF du 04 au 07 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-04</StartDate>
+      <EndDate>2019-02-07</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="652" Frequency="13">
+    <Nom>Java Persistence API - JPA</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-jpa-avec-hibernate</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/jpa-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="636" Frequency="13">
+    <Nom>Android Auto</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-android-auto</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/android-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="634" Frequency="13">
+    <Nom>Storm</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-storm</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/storm200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="628" Frequency="4">
+    <Nom>ElasticSearch</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-elasticsearch</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/elasticsearch-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1620</Prix>
+  </Formation>
+  <Formation id="8454" Frequency="4">
+    <Nom>ElasticSearch Administration et Infrastructure</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-elasticsearch-administration-infrastructure</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/elasticsearch-logo-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1080</Prix>
+    <Session>
+      <Nom>ElasticSearch Administration et Infrastructure Décembre</Nom>
+      <Description>Session Interentreprises : Formation ElasticSearch Administration et Infrastructure du 20 au 21 Décembre 2018 sur Paris</Description>
+      <StartDate>2018-12-20</StartDate>
+      <EndDate>2018-12-21</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="626" Frequency="13">
+    <Nom>Orchard CMS</Nom>
+    <Categorie>CRM et Webmarketing</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-orchard</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/orchard-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1620</Prix>
+  </Formation>
+  <Formation id="619" Frequency="13">
+    <Nom>Comunity Manager</Nom>
+    <Categorie>CRM et Marketing</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-community-management</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/com200.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+  </Formation>
+  <Formation id="577" Frequency="13">
+    <Nom>3DCoat</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-3dcoat</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/coat200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="575" Frequency="13">
+    <Nom>Zbrush</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-zbrush</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/zbrush-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="573" Frequency="13">
+    <Nom>3DS Max</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-3ds-max</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/3ds200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="571" Frequency="13">
+    <Nom>Adobe Premiere Pro</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-premiere-cc</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/premiere200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="569" Frequency="13">
+    <Nom>Adobe InDesign</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-indesign-cc</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/indesign200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="567" Frequency="13">
+    <Nom>Adobe Illustrator</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-illustrator-cc</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/illu200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="563" Frequency="13">
+    <Nom>Microsoft Project</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-ms-project-2016</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/mspro200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="561" Frequency="13">
+    <Nom>Microsoft PowerPoint</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-powerpoint-2016</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/power200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="559" Frequency="13">
+    <Nom>Microsoft Word</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-word-2016</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/word200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="554" Frequency="13">
+    <Nom>Programmation Bureautique sous VBA Access</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-programmation-bureautique-sous-vba-access</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/vba-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="550" Frequency="13">
+    <Nom>Adobe After Effects</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-after-effects-cc</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/AE200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="545" Frequency="13">
+    <Nom>Adobe Photoshop</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-photoshop-cc</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/photoshop200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="534" Frequency="13">
+    <Nom>Microsoft Excel</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-excel-2016</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/excel200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="532" Frequency="13">
+    <Nom>Marches publics</Nom>
+    <Categorie>CRM et Marketing</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-marches-publics</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/marchepublic-logo.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="530" Frequency="13">
+    <Nom>The Open Group Architecture Framework - TOGAF</Nom>
+    <Categorie>CRM et Marketing</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-togaf</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/togaf-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="517" Frequency="13">
+    <Nom>Référencement SEO</Nom>
+    <Categorie>CRM et Marketing</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-seo</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/seo-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="510" Frequency="13">
+    <Nom>Machine Learning</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-machine-learning</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/ml-logo.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="491" Frequency="13">
+    <Nom>Hadoop</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-hadoop</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/hadoop-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="481" Frequency="13">
+    <Nom>Liunx RT</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-linux-rt</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/linux-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="439" Frequency="13">
+    <Nom>Symfony</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-symfony</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/symfony-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1710</Prix>
+  </Formation>
+  <Formation id="433" Frequency="13">
+    <Nom>Ruby on Rails</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-ruby-rails</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/ruby200-1.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Ruby Décembre</Nom>
+      <Description>Session Interentreprises : Formation Ruby on Rails du 04 au 06 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-04</StartDate>
+      <EndDate>2019-02-06</EndDate>
+    </Session>
+    <Session>
+      <Nom>Ruby Décembre</Nom>
+      <Description>Session Interentreprises : Formation Ruby on Rails du 20 au 22 Mai 2019 sur Paris</Description>
+      <StartDate>2019-05-20</StartDate>
+      <EndDate>2019-05-22</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="427" Frequency="13">
+    <Nom>JavaServer Faces - JSF</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-jsf</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/jsf-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="420" Frequency="13">
+    <Nom>ASP.NET MVC</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-asp-net-mvc5</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/mvc200.png</Image>
+    <Duree>4</Duree>
+    <Prix>1980</Prix>
+  </Formation>
+  <Formation id="413" Frequency="13">
+    <Nom>CasperJS</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-casperjs</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/casper200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="301" Frequency="13">
+    <Nom>Test Driven Development - TDD</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-tdd</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/tdd200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="295" Frequency="13">
+    <Nom>Kanban</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-kanban</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/leankanban-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="291" Frequency="13">
+    <Nom>Intégration Continue</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-integration-continue</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/intecontinue200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="285" Frequency="13">
+    <Nom>Puppet</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-puppet</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/puppet-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Janvier Puppet</Nom>
+      <Description>Session Interentreprises : Formation Puppet le 8 et 9 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-07</StartDate>
+      <EndDate>2019-01-09</EndDate>
+    </Session>
+    <Session>
+      <Nom>Février Puppet</Nom>
+      <Description>Session Interentreprises : Formation Puppet le 4 et 8 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-04</StartDate>
+      <EndDate>2019-02-08</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="279" Frequency="13">
+    <Nom>Jenkins</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-jenkins</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/jenkins-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="275" Frequency="13">
+    <Nom>OpenStack</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-openstack</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/openstack-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="264" Frequency="13">
+    <Nom>Clean Code</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-clean-code</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/cleancode200-1.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="259" Frequency="13">
+    <Nom>Scrum</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-scrum</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/scrum-logo-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="245" Frequency="8">
+    <Nom>Git</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-git</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/04/git-logo-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>Janvier Git</Nom>
+      <Description>Session Interentreprises : Formation Git le 14 et 15 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-14</StartDate>
+      <EndDate>2019-01-15</EndDate>
+    </Session>
+    <Session>
+      <Nom>Février Git</Nom>
+      <Description>Session Interentreprises : Formation Git le 11 et 12 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-12</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="6995" Frequency="13">
+    <Nom>Langage Go / Golang</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-go</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/05/go-logox175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Janvier Langage Go</Nom>
+      <Description>Session Interentreprises : Formation Go du 7 au 9 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-07</StartDate>
+      <EndDate>2019-01-09</EndDate>
+    </Session>
+    <Session>
+      <Nom>Mars Langage Go</Nom>
+      <Description>Session Interentreprises : Formation Go du 4 au 6 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-04</StartDate>
+      <EndDate>2019-03-06</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="7305" Frequency="13">
+    <Nom>New Relic</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-new-relic</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/05/newrelic-175.png</Image>
+    <Duree>4</Duree>
+    <Prix>1980</Prix>
+  </Formation>
+  <Formation id="7332" Frequency="13">
+    <Nom>Dynatrace</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-dynatrace</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/05/dynatrace-175.png</Image>
+    <Duree>5</Duree>
+    <Prix>3060</Prix>
+    <Session>
+      <Nom>Dynatrace Janvier</Nom>
+      <Description>Session Interentreprises : Formation Dynatrace du 14 au 18 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-14</StartDate>
+      <EndDate>2019-01-18</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="7340" Frequency="13">
+    <Nom>Pentest Mobile</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-pentest-mobile</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/05/pentesting-175.png</Image>
+    <Duree>5</Duree>
+    <Prix>2250</Prix>
+    <Session>
+      <Nom>Pentest Mobile Janvier</Nom>
+      <Description>Session Interentreprises : Formation Technique d'Hacking et de Pentesting du 14 au 18 Janvier 2018 sur Paris</Description>
+      <StartDate>2019-01-14</StartDate>
+      <EndDate>2019-01-18</EndDate>
+    </Session>
+    <Session>
+      <Nom>Pentest Mobile Janvier</Nom>
+      <Description>Session Interentreprises : Formation Technique d'Hacking et de Pentesting du 4 au 8 Mars 2018 sur Paris</Description>
+      <StartDate>2019-03-04</StartDate>
+      <EndDate>2019-03-08</EndDate>
+    </Session>
+    <Session>
+      <Nom>Pentest Mobile Avril</Nom>
+      <Description>Session Interentreprises : Formation Technique d'Hacking et de Pentesting du 15 au 19 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-15</StartDate>
+      <EndDate>2019-04-19</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="7512" Frequency="8">
+    <Nom>Flutter et Dart</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-flutter-dart</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/06/fluuter-dart.png</Image>
+    <Duree>3</Duree>
+    <Prix>1890</Prix>
+    <Session>
+      <Nom>Flutter Février </Nom>
+      <Description>Session Interentreprises : Formation Flutter et Dart du 18 au 20 février 2019 sur Paris</Description>
+      <StartDate>2019-02-18</StartDate>
+      <EndDate>2019-02-20</EndDate>
+    </Session>
+    <Session>
+      <Nom>Flutter Avril </Nom>
+      <Description>Session Interentreprises : Formation Flutter et Dart du 15 au 17 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-15</StartDate>
+      <EndDate>2019-04-17</EndDate>
+    </Session>
+    <Session>
+      <Nom>Flutter Juin </Nom>
+      <Description>Session Interentreprises : Formation Flutter et Dart du 10 au 12 Juin 2019 sur Paris</Description>
+      <StartDate>2019-06-10</StartDate>
+      <EndDate>2019-06-12</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="7529" Frequency="13">
+    <Nom>Langage R</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-langage-r</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/06/r-175.png</Image>
+    <Duree>5</Duree>
+    <Prix>2250</Prix>
+    <Session>
+      <Nom>Langage R Décembre</Nom>
+      <Description>Session Interentreprises : Formation Langage R du 17 au 21 Décembre 2018 sur Paris</Description>
+      <StartDate>2018-12-17</StartDate>
+      <EndDate>2018-12-21</EndDate>
+    </Session>
+    <Session>
+      <Nom>Langage R Janvier</Nom>
+      <Description>Session Interentreprises : Formation Langage R du 14 au 16 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-14</StartDate>
+      <EndDate>2019-01-16</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="7843" Frequency="13">
+    <Nom>Openshift</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-openshift</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/06/openshift.png</Image>
+    <Duree>4</Duree>
+    <Prix>2520</Prix>
+    <Session>
+      <Nom>Openshift Janvier</Nom>
+      <Description>Session Interentreprises : Formation Openshift du 28 au 31 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-28</StartDate>
+      <EndDate>2019-01-31</EndDate>
+    </Session>
+    <Session>
+      <Nom>Openshift Avril</Nom>
+      <Description>Session Interentreprises : Formation Openshift du 23 au 26 avril 2019 sur Paris</Description>
+      <StartDate>2019-04-23</StartDate>
+      <EndDate>2019-04-26</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="7958" Frequency="13">
+    <Nom>Flow 3D</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-flow-3d/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/07/flox3d-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1980</Prix>
+    <Session>
+      <Nom>Flow 3D Avril</Nom>
+      <Description>Session Interentreprises : Formation Flow 3D du 1 au 3 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-01</StartDate>
+      <EndDate>2019-04-03</EndDate>
+    </Session>
+    <Session>
+      <Nom>Flow 3D Juin</Nom>
+      <Description>Session Interentreprises : Formation Flow 3D du 11 au 13 Juin 2019 sur Paris</Description>
+      <StartDate>2019-06-11</StartDate>
+      <EndDate>2019-06-13</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="7971" Frequency="13">
+    <Nom>MongoDB</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-mongodb/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/07/mongodb-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1710</Prix>
+    <Session>
+      <Nom>MongoDB Février</Nom>
+      <Description>Session Interentreprises : Formation MongoDB le 25 et 27 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-25</StartDate>
+      <EndDate>2019-02-27</EndDate>
+    </Session>
+    <Session>
+      <Nom>MongoDB Mars</Nom>
+      <Description>Session Interentreprises : Formation MongoDB le 28 et 29 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-28</StartDate>
+      <EndDate>2019-03-29</EndDate>
+    </Session>
+    <Session>
+      <Nom>MongoDB Avril</Nom>
+      <Description>Session Interentreprises : Formation MongoDB le 22 et 24 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-22</StartDate>
+      <EndDate>2019-04-24</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="7964" Frequency="13">
+    <Nom>MongoDB Avance</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-mongodb-avance</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/07/mongodb-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>MongoDB Avance Février</Nom>
+      <Description>Session Interentreprises : Formation MongoDB Avance le 28 Février et 1 Mars 2019 sur Paris</Description>
+      <StartDate>2019-02-28</StartDate>
+      <EndDate>2019-03-01</EndDate>
+    </Session>
+    <Session>
+      <Nom>MongoDB Avance Mars</Nom>
+      <Description>Session Interentreprises : Formation MongoDB Avance le 28 et 29 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-28</StartDate>
+      <EndDate>2019-03-29</EndDate>
+    </Session>
+    <Session>
+      <Nom>MongoDB Avance Avril</Nom>
+      <Description>Session Interentreprises : Formation MongoDB Avance le 25 et 26 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-25</StartDate>
+      <EndDate>2019-04-26</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8069" Frequency="13">
+    <Nom>Python Machine Learning</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-python-machine-learning/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/07/scikit-learn-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>Python Machine Learning Février</Nom>
+      <Description>Session Interentreprises : Formation Python Machine Learning le 28 et 1 Mars 2019 sur Paris</Description>
+      <StartDate>2019-02-28</StartDate>
+      <EndDate>2019-03-01</EndDate>
+    </Session>
+    <Session>
+      <Nom>Python Machine Learning Juin</Nom>
+      <Description>Session Interentreprises : Formation Python Machine Learning le 20 et 21 Juin 2019 sur Paris</Description>
+      <StartDate>2019-06-20</StartDate>
+      <EndDate>2019-06-21</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8097" Frequency="13">
+    <Nom>Langage Elixir</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-langage-elixir/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/07/elixir-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Langage Elixir Janvier</Nom>
+      <Description>Session Interentreprises : Formation Langage Elixir du 28 au 30 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-28</StartDate>
+      <EndDate>2019-01-30</EndDate>
+    </Session>
+    <Session>
+      <Nom>Langage Elixir Avril</Nom>
+      <Description>Session Interentreprises : Formation Langage Elixir du 15 au 17 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-15</StartDate>
+      <EndDate>2019-04-17</EndDate>
+    </Session>
+    <Session>
+      <Nom>Langage Elixir Mai</Nom>
+      <Description>Session Interentreprises : Formation Langage Elixir du 27 au 29 Mai 2019 sur Paris</Description>
+      <StartDate>2019-05-27</StartDate>
+      <EndDate>2019-05-29</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8114" Frequency="13">
+    <Nom>Torch Machine Learning</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-torch-machine-learning/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/07/torch-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Torch Machine Learning Février</Nom>
+      <Description>Session Interentreprises : Formation Torch Machine Learning du 25 au 27 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-25</StartDate>
+      <EndDate>2019-02-27</EndDate>
+    </Session>
+    <Session>
+      <Nom>Torch Machine Learning Arvil</Nom>
+      <Description>Session Interentreprises : Formation Torch Machine Learning du 23 au 25 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-23</StartDate>
+      <EndDate>2019-04-25</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8210" Frequency="13">
+    <Nom>CouchDB</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-couchdb/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/07/couchdb-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>CouchDB Mars</Nom>
+      <Description>Session Interentreprises : Formation CouchDB le 7 et 8 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-07</StartDate>
+      <EndDate>2019-03-08</EndDate>
+    </Session>
+    <Session>
+      <Nom>CouchDB Juin</Nom>
+      <Description>Session Interentreprises : Formation CouchDB le 13 et 14 Juin 2019 sur Paris</Description>
+      <StartDate>2019-06-13</StartDate>
+      <EndDate>2019-06-14</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8218" Frequency="13">
+    <Nom>Stencil JS</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-stenciljs/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/07/stenciljs-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>Stencil JS Mars</Nom>
+      <Description>Session Interentreprises : Formation Stencil JS le 14 et 15 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-14</StartDate>
+      <EndDate>2019-03-15</EndDate>
+    </Session>
+    <Session>
+      <Nom>Stencil JS Mai</Nom>
+      <Description>Session Interentreprises : Formation Stencil JS le 9 et 10 Mai 2019 sur Paris</Description>
+      <StartDate>2019-05-09</StartDate>
+      <EndDate>2019-05-10</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8243" Frequency="13">
+    <Nom>Cucumber et Gherkin</Nom>
+    <Categorie>DevOps et Agilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-cucumber/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/07/cucumber-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Cucumber et Gherkin Janvier</Nom>
+      <Description>Session Interentreprises : Formation Cucumber et Gherkin le 7 et 9 Mars 2019 sur Paris</Description>
+      <StartDate>2019-01-07</StartDate>
+      <EndDate>2019-01-09</EndDate>
+    </Session>
+    <Session>
+      <Nom>Cucumber et Gherkin Avril</Nom>
+      <Description>Session Interentreprises : Formation Cucumber et Gherkin le 23 et 25 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-23</StartDate>
+      <EndDate>2019-04-25</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8512" Frequency="13">
+    <Nom>NCache : Distributed .Net</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-ncache/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/08/ncache-175.png</Image>
+    <Duree>4</Duree>
+    <Prix>1980</Prix>
+    <Session>
+      <Nom>NCache Janvier</Nom>
+      <Description>Session Interentreprises : Formation NCache le 7 et 10 Mars 2019 sur Paris</Description>
+      <StartDate>2019-01-07</StartDate>
+      <EndDate>2019-01-10</EndDate>
+    </Session>
+    <Session>
+      <Nom>NCache Avril</Nom>
+      <Description>Session Interentreprises : Formation NCache le 23 et 26 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-23</StartDate>
+      <EndDate>2019-04-26</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8519" Frequency="13">
+    <Nom>Affinity Designer</Nom>
+    <Categorie>Infographie et Bureautique</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-affinity-designer/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/08/affinity-designer-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Affinity Designer Janvier</Nom>
+      <Description>Session Interentreprises : Formation Affinity Designer du 14 au 16 Janvier 2018 sur Paris</Description>
+      <StartDate>2019-01-14</StartDate>
+      <EndDate>2019-01-16</EndDate>
+    </Session>
+    <Session>
+      <Nom>Affinity Designer Mars</Nom>
+      <Description>Session Interentreprises : Formation Affinity Designer du 11 au 13 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-11</StartDate>
+      <EndDate>2019-03-13</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8525" Frequency="13">
+    <Nom>Wordpress Avancé et Divi</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-wordpress-avance-divi/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/08/wordpress-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Wordpress Avancé et Divi Janvier</Nom>
+      <Description>Session Interentreprises : Formation Wordpress Avancé et Divi le 7 et 9 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-07</StartDate>
+      <EndDate>2019-01-09</EndDate>
+    </Session>
+    <Session>
+      <Nom>Wordpress Avancé et Divi Avril</Nom>
+      <Description>Session Interentreprises : Formation Wordpress Avancé et Divi le 23 et 25 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-23</StartDate>
+      <EndDate>2019-04-25</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8563" Frequency="13">
+    <Nom>Pandas et Jupyter</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-pandas-jupyter/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/08/pandasjupyter-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Pandas et Jupyter Janvier</Nom>
+      <Description>Session Interentreprises : Formation Pandas et Jupyter du 14 au 16 Janvier 2018 sur Paris</Description>
+      <StartDate>2019-01-14</StartDate>
+      <EndDate>2019-01-16</EndDate>
+    </Session>
+    <Session>
+      <Nom>Pandas et Jupyter Février</Nom>
+      <Description>Session Interentreprises : Formation Pandas et Jupyter du 11 au 13 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-13</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8586" Frequency="13">
+    <Nom>Créer son permier ChatBot</Nom>
+    <Categorie>BigData et NoSQL</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-chatbot-ideta/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2016/09/ideta-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+  </Formation>
+  <Formation id="8616" Frequency="8">
+    <Nom>Hapi.JS</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-hapijs/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/09/hapijs-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>Hapi.JS Février</Nom>
+      <Description>Session Interentreprises : Formation Hapi.JS du 28 février au 1 mars 2019 sur Paris</Description>
+      <StartDate>2019-02-28</StartDate>
+      <EndDate>2019-03-01</EndDate>
+    </Session>
+    <Session>
+      <Nom>Hapi.JS Avril</Nom>
+      <Description>Session Interentreprises : Formation Hapi.JS du 04 et 05 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-04</StartDate>
+      <EndDate>2019-04-05</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8628" Frequency="13">
+    <Nom>Pivotal Cloud Foundry</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-pcf/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/09/hapijs-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1530</Prix>
+    <Session>
+      <Nom>Pivotal Cloud Foundry Février</Nom>
+      <Description>Session Interentreprises : Formation Pivotal Cloud Foundry du 11 au 13 Février 2018 sur Paris</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-13</EndDate>
+    </Session>
+    <Session>
+      <Nom>Pivotal Cloud Foundry Avril</Nom>
+      <Description>Session Interentreprises : Formation Pivotal Cloud Foundry du 08 au 10 Avril 2018 sur Paris</Description>
+      <StartDate>2019-04-08</StartDate>
+      <EndDate>2019-04-10</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8718" LinkId="3082" Frequency="13">
+    <Nom>Amazon EKS</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-eks/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/09/amazon-eks-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>EKS Février</Nom>
+      <Description>Session Interentreprises : Formation Amazon EKS Kubernetes du 7 au 8 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-07</StartDate>
+      <EndDate>2019-02-08</EndDate>
+    </Session>
+   <Session>
+      <Nom>EKS Mars</Nom>
+      <Description>Session Interentreprises : Formation Amazon EKS Kubernetes du 7 au 8 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-07</StartDate>
+      <EndDate>2019-03-08</EndDate>
+    </Session>
+   <Session>
+      <Nom>EKS Juin</Nom>
+      <Description>Session Interentreprises : Formation Amazon EKS Kubernetes du 6 au 7 Juin 2019 sur Paris</Description>
+      <StartDate>2019-06-06</StartDate>
+      <EndDate>2019-06-07</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8750" Frequency="13">
+    <Nom>Plateforme Unity3D</Nom>
+    <Categorie>Application et Mobilite</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-unity3d/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/09/unity-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>1710</Prix>
+    <Session>
+      <Nom>Plateforme Unity3D Février</Nom>
+      <Description>Session Interentreprises : Formation Plateforme Unity3D du 11 au 13 Février 2018 sur Paris</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-13</EndDate>
+    </Session>
+    <Session>
+      <Nom>Plateforme Unity3D Avril</Nom>
+      <Description>Session Interentreprises : Formation Plateforme Unity3D du 08 au 10 Avril 2018 sur Paris</Description>
+      <StartDate>2019-04-08</StartDate>
+      <EndDate>2019-04-10</EndDate>
+    </Session>
+    <Session>
+      <Nom>Plateforme Unity3D Juin</Nom>
+      <Description>Session Interentreprises : Formation Plateforme Unity3D du 3 au 5 Juin 2018 sur Paris</Description>
+      <StartDate>2019-06-03</StartDate>
+      <EndDate>2019-06-05</EndDate>
+    </Session>
+    <Session>
+      <Nom>Plateforme Unity3D Juillet</Nom>
+      <Description>Session Interentreprises : Formation Plateforme Unity3D du 1 au 3 Juillet 2018 sur Paris</Description>
+      <StartDate>2019-07-01</StartDate>
+      <EndDate>2019-07-03</EndDate>
+    </Session>
+  </Formation>
+  <Formation Frequency="13" id="9069">
+    <Nom>Dynamics Fonctionnelle</Nom>
+    <Categorie>CRM et Webmarketing</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-dynamics-fonctionnelle</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2017/07/dynamics-logo200.png</Image>
+    <Duree>3</Duree>
+    <Prix>1710</Prix>
+  </Formation>
+  <Formation Frequency="13" id="9079">
+    <Nom>Django Python</Nom>
+    <Categorie>Web et Cloud</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-django</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/10/django175.png</Image>
+    <Duree>4</Duree>
+    <Prix>1980</Prix>
+    <Session>
+      <Nom>Django Python Février</Nom>
+      <Description>Session Interentreprises : Formation Django Python du 11 au 13 Février 2018 sur Paris</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-13</EndDate>
+    </Session>
+    <Session>
+      <Nom>Django Python Avril</Nom>
+      <Description>Session Interentreprises : Formation Django Python du 08 au 10 Avril 2018 sur Paris</Description>
+      <StartDate>2019-04-08</StartDate>
+      <EndDate>2019-04-10</EndDate>
+    </Session>
+  </Formation>
+  <!-- 
+
+                FORMATION CERTIFIANTE
+
+            -->
+  <Formation id="7999" Frequency="8">
+    <Nom>Certification DevOps Master</Nom>
+    <Categorie>Seminaires et Certifications</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-devops-master/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/07/devops-175.png</Image>
+    <Duree>5</Duree>
+    <Prix>1980</Prix>
+  </Formation>
+  <Formation id="7998" Frequency="8">
+    <Nom>Certification COBIT Foundation et Implementation</Nom>
+    <Categorie>Seminaires et Certifications</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-cobit-foundation-implementation/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/07/cobit-175.png</Image>
+    <Duree>5</Duree>
+    <Prix>3240</Prix>
+    <Session>
+      <Nom>Certification COBIT Foundation et Implementation Janvier</Nom>
+      <Description>Session Interentreprises : Certification COBIT du 14 au 18 Janvier 2018 sur Paris</Description>
+      <StartDate>2019-01-14</StartDate>
+      <EndDate>2019-01-18</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="7996" Frequency="8">
+    <Nom>PMBOK - Certification PMP</Nom>
+    <Categorie>Seminaires et Certifications</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-pmbok/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/07/pmbok-175.png</Image>
+    <Duree>5</Duree>
+    <Prix>3240</Prix>
+    <Session>
+      <Nom>Certification PMP Avril</Nom>
+      <Description>Session Interentreprises : Certification PMP du 1 au 5 Avril 2018 sur Paris</Description>
+      <StartDate>2019-04-01</StartDate>
+      <EndDate>2019-04-05</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8029" Frequency="8">
+    <Nom>Certification Cloud Technology Associate</Nom>
+    <Categorie>Seminaires et Certifications</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-cloud-technology-associate/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/07/cta-175.png</Image>
+    <Duree>3</Duree>
+    <Prix>2520</Prix>
+    <Session>
+      <Nom>Certification Cloud Technology Associate Mai</Nom>
+      <Description>Session Interentreprises : Certification Cloud Technology Associate du 13 au 15 Mai 2018 sur Paris</Description>
+      <StartDate>2019-05-13</StartDate>
+      <EndDate>2019-05-15</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8689" Frequency="8">
+    <Nom>SCRUM Certification PSM I</Nom>
+    <Categorie>Seminaires et Certifications</Categorie>
+    <Url>https://www.ambient-it.net/formation/formation-scrum-psm-i/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/09/scrum-psm-175.png</Image>
+    <Duree>2</Duree>
+    <Prix>2160</Prix>
+    <Session>
+      <Nom>SCRUM Certification PSM I Février</Nom>
+      <Description>Session Interentreprises : SCRUM Certification PSM I du 27 au 28 Février 2018 sur Paris</Description>
+      <StartDate>2019-02-27</StartDate>
+      <EndDate>2019-02-28</EndDate>
+    </Session>
+  </Formation>
+  <!-- 
+
+                FORMATION SEMINAIRE 
+
+            -->
+  <Formation id="7898" Frequency="13">
+    <Nom>Séminaire Chatbots</Nom>
+    <Categorie>Seminaires et Certifications</Categorie>
+    <Url>https://www.ambient-it.net/formation/seminaire-chatbot/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/06/chatbot-175.png</Image>
+    <Duree>1</Duree>
+    <Prix>945</Prix>
+    <Session>
+      <Nom>Séminaire Chatbots Février</Nom>
+      <Description>Session Interentreprises : Formation Séminaire Chatbots le 8 Février 2019 sur Paris</Description>
+      <StartDate>2019-02-08</StartDate>
+      <EndDate>2019-02-08</EndDate>
+    </Session>
+    <Session>
+      <Nom>Séminaire Chatbots Mai</Nom>
+      <Description>Session Interentreprises : Formation Séminaire Chatbots le 29 Mai 2019 sur Paris</Description>
+      <StartDate>2019-05-29</StartDate>
+      <EndDate>2019-05-29</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="7915" Frequency="13">
+    <Nom>Séminaire Intelligence Artificielle</Nom>
+    <Categorie>Seminaires et Certifications</Categorie>
+    <Url>https://www.ambient-it.net/formation/seminaire-ia/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/06/ai-175.png</Image>
+    <Duree>1</Duree>
+    <Prix>945</Prix>
+    <Session>
+      <Nom>Séminaire Intelligence Artificielle Mars</Nom>
+      <Description>Session Interentreprises : Formation Séminaire Intelligence Artificielle le 14 Mars 2019 sur Paris</Description>
+      <StartDate>2019-03-14</StartDate>
+      <EndDate>2019-03-14</EndDate>
+    </Session>
+    <Session>
+      <Nom>Séminaire Intelligence Artificielle Mai</Nom>
+      <Description>Session Interentreprises : Formation Séminaire Intelligence Artificielle le 24 Mai 2019 sur Paris</Description>
+      <StartDate>2019-05-24</StartDate>
+      <EndDate>2019-05-24</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8532" Frequency="13">
+    <Nom>Séminaire Big Data</Nom>
+    <Categorie>Seminaires et Certifications</Categorie>
+    <Url>https://www.ambient-it.net/formation/seminaire-bigdata/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/08/bigdata-175.png</Image>
+    <Duree>1</Duree>
+    <Prix>945</Prix>
+    <Session>
+      <Nom>Séminaire Big Data Janvier</Nom>
+      <Description>Session Interentreprises : Formation Séminaire Big Data le 16 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-16</StartDate>
+      <EndDate>2019-01-16</EndDate>
+    </Session>
+    <Session>
+      <Nom>Séminaire Big Data Avril</Nom>
+      <Description>Session Interentreprises : Formation Séminaire Big Data le 26 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-26</StartDate>
+      <EndDate>2019-04-26</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="8673" Frequency="13">
+    <Nom>Séminaire DevOps</Nom>
+    <Categorie>Seminaires et Certifications</Categorie>
+    <Url>https://www.ambient-it.net/formation/seminaire-devops/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/07/devops-175.png</Image>
+    <Duree>1</Duree>
+    <Prix>1260</Prix>
+    <Session>
+      <Nom>Séminaire DevOps Janvier</Nom>
+      <Description>Session Interentreprises : Formation Séminaire DevOps le 16 Janvier 2019 sur Paris</Description>
+      <StartDate>2019-01-16</StartDate>
+      <EndDate>2019-01-16</EndDate>
+    </Session>
+    <Session>
+      <Nom>Séminaire DevOps Avril</Nom>
+      <Description>Session Interentreprises : Formation Séminaire DevOps le 26 Avril 2019 sur Paris</Description>
+      <StartDate>2019-04-26</StartDate>
+      <EndDate>2019-04-26</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9449">
+    <Nom>Datacore</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/datacore/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/dcie-1.png</Image>
+    <Duree>5</Duree>
+    <Prix>4400</Prix>
+    <Session>
+      <Nom>Datacore Janvier</Nom>
+      <Description>session Interentreprises : Formation Datacore du 21 au 25 Janvier</Description>
+      <StartDate>2019-01-21</StartDate>
+      <EndDate>2019-01-25</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9498">
+    <Nom>Certified Ethical Hacker</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/certified-ethical-hacker/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/hacker.png</Image>
+    <Duree>4</Duree>
+    <Prix>3750</Prix>
+    <Session>
+      <Nom>Certified Ethical Hacker Février</Nom>
+      <Description>session Interentreprises : Formation Certified Ethical Hacker du  4 au  8 Février</Description>
+      <StartDate>2019-02-04</StartDate>
+      <EndDate>2019-02-08</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9535">
+    <Nom>ForeScout Certified Administrator</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/forescout-certified-administrator/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/foresc...-1.png</Image>
+    <Duree>4</Duree>
+    <Prix>2000</Prix>
+    <Session>
+      <Nom>ForeScout Certified Administrator Février</Nom>
+      <Description>session Interentreprises : Formation ForeScout Certified Administrator du 18 au 21 Février</Description>
+      <StartDate>2019-02-18</StartDate>
+      <EndDate>2019-02-21</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="10025">
+    <Nom>Nutanix</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/nutanix-enterprise-cloud-platform/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/nutanix.png</Image>
+    <Duree>4</Duree>
+    <Prix>3500</Prix>
+    <Session>
+      <Nom>Nutanix Janvier</Nom>
+      <Description>session Interentreprises : Formation Nutanix du 14 au 17 Janvier</Description>
+      <StartDate>2019-01-14</StartDate>
+      <EndDate>2019-01-17</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9503">
+    <Nom>Rubrik</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/rubrik/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/rubick.png</Image>
+    <Duree>2</Duree>
+    <Prix>2500</Prix>
+    <Session>
+      <Nom>Rubrik Février</Nom>
+      <Description>session Interentreprises : Formation Rubrik du 14 Février au 15 Janvier</Description>
+      <StartDate>2019-02-14</StartDate>
+      <EndDate>2019-01-15</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9556">
+    <Nom>Proofpoint</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/proofpoint/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/proofpoint.png</Image>
+    <Duree>3</Duree>
+    <Prix>3100</Prix>
+    <Session>
+      <Nom>Proofpoint Mars</Nom>
+      <Description>session Interentreprises : Formation Proofpoint du 11 au 13 Mars</Description>
+      <StartDate>2019-03-11</StartDate>
+      <EndDate>2019-03-13</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9591">
+    <Nom>Palo Alto Firewall : Troubleshooting</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/advanced-firewall-troubleshooting/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/PALTO.png</Image>
+    <Duree>3</Duree>
+    <Prix>2250</Prix>
+    <Session>
+      <Nom>Palo Alto Firewall : Troubleshooting Février</Nom>
+      <Description>session Interentreprises : Formation Palo Alto Firewall : Troubleshooting du 11 au 13 Février</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-13</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9661">
+    <Nom>Formation Palo Alto Traps : déploiement et optimisation</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/traps-optimisation/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/TRAPS-INSTALLATION-1.png</Image>
+    <Duree>2</Duree>
+    <Prix>1600</Prix>
+    <Session>
+      <Nom>Formation Palo Alto Traps : déploiement et optimisation Janvier</Nom>
+      <Description>session Interentreprises : Formation Formation Palo Alto Traps : déploiement et optimisation du 14 au 15 Janvier</Description>
+      <StartDate>2019-01-14</StartDate>
+      <EndDate>2019-01-15</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9700">
+    <Nom>Formation Palo Alto Traps : installation, configuration et gestion</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/traps-configuration/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/Palo-Alto-Firewall-Configuration.png</Image>
+    <Duree>5</Duree>
+    <Prix>1600</Prix>
+    <Session>
+      <Nom>Formation Palo Alto Traps : installation, configuration et gestion Janvier</Nom>
+      <Description>session Interentreprises : Formation Formation Palo Alto Traps : installation, configuration et gestion du 14 au 15 Janvier</Description>
+      <StartDate>2019-01-14</StartDate>
+      <EndDate>2019-01-15</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9779">
+    <Nom>Formation Palo Alto Panorama</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/palo-alto-panorama/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/PALO-ALTO-PANORAMA.png</Image>
+    <Duree>2</Duree>
+    <Prix>2250</Prix>
+    <Session>
+      <Nom>Formation Palo Alto Panorama Février</Nom>
+      <Description>session Interentreprises : Formation Formation Palo Alto Panorama du 14 au 15 Février</Description>
+      <StartDate>2019-02-14</StartDate>
+      <EndDate>2019-02-15</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9823">
+    <Nom>Formation Palo Alto Firewall 8.1 : Optimiser la prévention des menaces</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/palo-alto-firewall-prevention/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/PALOALTO-FIREWALL.png</Image>
+    <Duree>4</Duree>
+    <Prix>3000</Prix>
+    <Session>
+      <Nom>Formation Palo Alto Firewall 8.1 : Optimiser la prévention des menaces Avril</Nom>
+      <Description>session Interentreprises : Formation Formation Palo Alto Firewall 8.1 : Optimiser la prévention des menaces du  8 au 11 Avril</Description>
+      <StartDate>2019-04-08</StartDate>
+      <EndDate>2019-04-11</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9873">
+    <Nom>Palo Alto Firewall : Configuration et management</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/palo-alto-firewall-configuration/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/Palo-Alto-Firewall-Configuration.png</Image>
+    <Duree>5</Duree>
+    <Prix>3400</Prix>
+    <Session>
+      <Nom>Palo Alto Firewall : Configuration et management Février</Nom>
+      <Description>session Interentreprises : Formation Palo Alto Firewall : Configuration et management du 21 au 25 Février</Description>
+      <StartDate>2019-02-21</StartDate>
+      <EndDate>2019-02-25</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9918">
+    <Nom>INFOBLOX – Core DDI Intermediate Configuration</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/infoblox-core-ddi-intermediate-configuration/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/infoblox.png</Image>
+    <Duree>5</Duree>
+    <Prix>4895</Prix>
+    <Session>
+      <Nom>INFOBLOX – Core DDI Intermediate Configuration Février</Nom>
+      <Description>session Interentreprises : Formation INFOBLOX – Core DDI Intermediate Configuration du 18 au 25 Février</Description>
+      <StartDate>2019-02-18</StartDate>
+      <EndDate>2019-02-25</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9948">
+    <Nom>INFOBLOX – Core DDI Advanced Troubleshooting</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/infoblox-advanced-troubleshooting/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/Advanced-Troubleshooting.png</Image>
+    <Duree>2</Duree>
+    <Prix>2145</Prix>
+    <Session>
+      <Nom>INFOBLOX – Core DDI Advanced Troubleshooting Avril</Nom>
+      <Description>session Interentreprises : Formation INFOBLOX – Core DDI Advanced Troubleshooting du  8 au  9 Avril</Description>
+      <StartDate>2019-04-08</StartDate>
+      <EndDate>2019-04-09</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9581">
+    <Nom>Fortinet-fortigate-infrastructure-security</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/fortinet-fortigate-infrastructure-security/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/fornit.png</Image>
+    <Duree>5</Duree>
+    <Prix>3700</Prix>
+    <Session>
+      <Nom>Fortinet-fortigate-infrastructure-security Janvier</Nom>
+      <Description>session Interentreprises : Formation Fortinet-fortigate-infrastructure-security du 21 au 25 Janvier</Description>
+      <StartDate>2019-01-21</StartDate>
+      <EndDate>2019-01-25</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9860">
+    <Nom>Fortinet-Fortianalyzer</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/fortinet-fortianalyzer/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/FORTINET-FortiAnalyzer.png</Image>
+    <Duree>1</Duree>
+    <Prix>990</Prix>
+    <Session>
+      <Nom>Fortinet-Fortianalyzer Février</Nom>
+      <Description>session Interentreprises : Formation Fortinet-Fortianalyzer du 20 au 20 Février</Description>
+      <StartDate>2019-02-20</StartDate>
+      <EndDate>2019-02-20</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9896">
+    <Nom>FORTINET – FortiGate III</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/fortinet-fortigate/Infrastructure-securite</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/FORTINET-FortiGate-III.png</Image>
+    <Duree>3</Duree>
+    <Prix>3520</Prix>
+    <Session>
+      <Nom>FORTINET – FortiGate III Février</Nom>
+      <Description>session Interentreprises : Formation FORTINET – FortiGate III du 11 au 13 Février</Description>
+      <StartDate>2019-02-11</StartDate>
+      <EndDate>2019-02-13</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9764">
+    <Nom>Fortinet-Fortimail</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/fortinet-fortimail/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/FORTIMAIL.png</Image>
+    <Duree>3</Duree>
+    <Prix>2970</Prix>
+    <Session>
+      <Nom>Fortinet-Fortimail Mai</Nom>
+      <Description>session Interentreprises : Formation Fortinet-Fortimail du 20 au 22 Mai</Description>
+      <StartDate>2019-05-20</StartDate>
+      <EndDate>2019-05-22</EndDate>
+    </Session>
+  </Formation>
+  <Formation id="9814">
+    <Nom>Fortinet-Fortimanager</Nom>
+    <Categorie>Infrastructure-securite</Categorie>
+    <Url>https://www.ambient-it.net/formation/fortinet-fortimanager/</Url>
+    <Image>https://www.ambient-it.net/wp-content/uploads/2018/12/FORTINET-FORTIMANAGER.png</Image>
+    <Duree>2</Duree>
+    <Prix>1980</Prix>
+    <Session>
+      <Nom>Fortinet-Fortimanager Février</Nom>
+      <Description>session Interentreprises : Formation Fortinet-Fortimanager du 18 au 19 Février</Description>
+      <StartDate>2019-02-18</StartDate>
+      <EndDate>2019-02-19</EndDate>
+    </Session>
+  </Formation>
+</Formations>
