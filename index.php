@@ -1,25 +1,9 @@
-<?php
-
-$xml = simplexml_load_file('array.xml');
-function xsort(&$nodes, $child_name, $order=SORT_ASC)
-{
-    $sort_proxy = array();
-
-    foreach ($nodes as $k => $node) {
-        $sort_proxy[$k] = (string) $node->$child_name;
-    }
-
-    array_multisort($sort_proxy, $order, $nodes);
-}
-$nodes = $xml->xpath('/Formations/Formation/Session');
-xsort($nodes, 'StartDate', SORT_ASC);
-
-?>
 <!DOCTYPE html>
 <html>
 <head>
     <title>Test-Technique</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <?php include ("functions.php"); ?>
 </head>
 <body>
     <div class="container">
@@ -38,7 +22,7 @@ xsort($nodes, 'StartDate', SORT_ASC);
     </tr>
   </thead>
   <tbody>
-    <?php $i=1; foreach ($nodes as $key): ?>
+    <?php $i=1; foreach ($sessions as $key): ?>
     <tr>
       <th scope="row"><?= $i++ ?></th>
       <td width="20%"><?= $key->Nom ?></td>
